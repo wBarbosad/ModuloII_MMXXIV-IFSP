@@ -1,0 +1,36 @@
+h1, h4, p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    height: 500px;
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    display: block; /*Código para centralizar o botão*/ 
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background: linear-gradient(#1b1c1a, #214e5a, #1db5bd);
+}
+body{
+    background: linear-gradient(#1b1c1a, #214e5a, #1db5bd);
+    width: 90%;
+    height: 100%;
+}
+button, a:hover{
+    width: 150px;
+    background-color: orange;
+    transition: .5s ease-in-out;
+}
+button, a{
+    color: black;
+    text-decoration: none;
+}
