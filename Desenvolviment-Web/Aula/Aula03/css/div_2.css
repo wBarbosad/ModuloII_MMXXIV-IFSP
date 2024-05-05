@@ -1,0 +1,25 @@
+#menu{ /*Identificador de ID*/
+    text-align: center;
+}
+#produtos{
+    display: flex;
+    justify-content: space-around;
+}
+.produto{ /*Identificador de classe*/
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.hiperlink{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    margin-left: 30px;
+    margin-right: 30px;
+    transition: .5s ease-in-out;
+}
+.hiperlink:hover{
+    font-size: 25px;
+}

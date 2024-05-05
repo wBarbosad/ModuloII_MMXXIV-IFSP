@@ -19,3 +19,21 @@ git push --set-upstream nome-branch
 
 - Comando
     git pull
+
+
+
+### Referencias
+    W3Schools
+    http://via.placeholder.com/150
+
+### O que é a TAG div? 
+    
+
+### Outros exemplos de TAGS usadas para agrupar elementos
+
+    div
+    nav
+    article
+    section
+    header
+    span
