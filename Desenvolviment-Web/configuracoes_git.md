@@ -37,3 +37,17 @@ git push --set-upstream nome-branch
     section
     header
     span
+
+## Aula 04 -- Anotações
+
+    Reset CSS: Reseta estilos no navegador (padrões)
+
+## Aula 05 
+
+
+# Javascript dentro e fora do navegador; (Browser / Node e Terminal)
+
+    Node é o interpretador javascript fora do navegador;
+    Para separar o JAVASCRIPT de HTML usamos a tag <script></script>
+    Pare relacionar um arquivo de javascript com html usamos
+        <script src="dwdwdwdw.js"></script>
