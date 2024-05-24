@@ -18,4 +18,9 @@ public class Musica {
             }
         }
     }
+
+    public void imprimirDetalhes(){
+        System.out.println(melodia);
+        System.out.println( );
+    }
 }
