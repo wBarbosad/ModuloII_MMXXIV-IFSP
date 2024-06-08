@@ -51,3 +51,11 @@ git push --set-upstream nome-branch
     Para separar o JAVASCRIPT de HTML usamos a tag <script></script>
     Pare relacionar um arquivo de javascript com html usamos
         <script src="dwdwdwdw.js"></script>
+
+
+# Aula 06 - Arrays em Javascript
+
+    - Arrays são variáveis que armazem muitos valores; Tambem chamados de variáveis compostas.a
+
+   ## Objetos literais em js.
+    - Objetos literais em javascript é uma forma de abstrair um conceito de mundo real no nosso código,
