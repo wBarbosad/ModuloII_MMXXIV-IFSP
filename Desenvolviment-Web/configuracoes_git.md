@@ -59,3 +59,10 @@ git push --set-upstream nome-branch
 
    ## Objetos literais em js.
     - Objetos literais em javascript é uma forma de abstrair um conceito de mundo real no nosso código,
+
+
+# AUla0 08 - Funções em Javascript
+
+    Função executa uma sequencia de ações;
+    
+
