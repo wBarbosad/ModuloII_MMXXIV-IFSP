@@ -1,0 +1,26 @@
+
+
+#conteudo-principal{
+    background-color: red;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.operadores{
+    padding: 20%;
+}
+.botao{
+    width: 40%;
+    height: 50%;
+    margin-top: 2%;
+    margin-right: 5%;
+    border-radius: 25%;
+}
+
+
+.botao:hover{
+    width: 30%;
+    height: 30%;
+}

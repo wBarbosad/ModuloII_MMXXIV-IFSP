@@ -1,0 +1,32 @@
+@import url(../css/reset.css);
+
+
+.imagem-nupem{
+    width: 300px;
+    border-radius: 10%;
+    filter: contrast(100%);
+    filter: opacity(80%);
+    animation: animacao-imagem 5s infinite;
+
+}
+.anima-botao{
+    animation: animacao-botao 1s;
+}
+
+@keyframes animacao-botao{
+    to{
+        box-shadow: -webkit-box-shadow: -27px 30px 89px 7px rgba(0,0,0,0.75);
+        -moz-box-shadow: -27px 30px 89px 7px rgba(0,0,0,0.75);
+        box-shadow: -27px 30px 89px 7px rgba(0,0,0,0.75);;
+    }
+}
+
+@keyframes animacao-imagem{
+    from{
+        transform: translate(300%, 500%);
+    }
+    to{
+        transform: rotate(360deg);
+        transform: translate(-200%, -400%);
+    }
+}

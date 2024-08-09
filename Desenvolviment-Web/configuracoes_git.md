@@ -64,5 +64,33 @@ git push --set-upstream nome-branch
 # AUla0 08 - Funções em Javascript
 
     Função executa uma sequencia de ações;
-    
+    arrow function () => {
+        
+    }
 
+
+# Aula 09
+
+    Desenvolvimento de uma calculadora em Javascript
+
+# Aula 11 
+
+## Animações em CSS
+    KeyFrames: @keyframes especifica o código de animação
+
+
+# Aula 12 - Introdução a protocolo HTTP:
+
+    Hyper Text Transfer Protocol - Navegar dados pela internet
+
+
+    GET - Método utilizado para buscar/pegar coisas do servidor
+    POST - Criar/persistir/submeter
+
+
+### Palavras chaves da aula
+
+    Servidor - Server
+    Cliente - Client
+    Requisição/Solicitação - Request
+    Resposta - Response
